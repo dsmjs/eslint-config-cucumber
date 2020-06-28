@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: eslint-config-cucumber
+  description: Shareable config for ESLint for Cucumber.js tests
+  homepage: 'https://npm.im/@dsmjs/eslint-config-cucumber'
+  private: false

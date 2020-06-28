@@ -1,0 +1,41 @@
+{
+  "name": "@dsmjs/eslint-config-cucumber",
+  "description": "Shareable config for ESLint for Cucumber.js tests",
+  "license": "MIT",
+  "version": "0.0.0-semantically-released",
+  "files": [
+    "example.js",
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "runkitExampleFilename": "./example.js",
+  "repository": "dsmjs/eslint-config-cucumber",
+  "bugs": "https://github.com/dsmjs/eslint-config-cucumber/issues",
+  "homepage": "https://npm.im/@dsmjs/eslint-config-cucumber",
+  "author": "dsmJS <maintainers@dsmjs.com> (https://dsmjs.com)",
+  "scripts": {
+    "test": "npm-run-all --print-label --parallel lint:*",
+    "lint:lockfile": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm",
+    "lint:md": "remark . --frail",
+    "generate:md": "remark . --output",
+    "lint:sensitive": "ban",
+    "lint:travis": "travis-lint .travis.yml",
+    "lint:peer": "npm ls >/dev/null"
+  },
+  "devDependencies": {
+    "@dsmjs/remark-preset-lint": "1.0.8",
+    "@form8ion/commitlint-config": "1.0.10",
+    "@travi/travis-lint": "1.0.1",
+    "ban-sensitive-files": "1.9.7",
+    "cz-conventional-changelog": "3.2.0",
+    "husky": "4.2.5",
+    "lockfile-lint": "4.3.7",
+    "npm-run-all": "4.1.5",
+    "remark-cli": "8.0.0",
+    "remark-toc": "7.0.0",
+    "remark-usage": "8.0.0"
+  },
+  "dependencies": {}
+}
