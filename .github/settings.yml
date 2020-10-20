@@ -4,3 +4,4 @@ repository:
   description: Shareable config for ESLint for Cucumber.js tests
   homepage: 'https://npm.im/@dsmjs/eslint-config-cucumber'
   private: false
+  topics: hacktoberfest
