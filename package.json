@@ -30,7 +30,7 @@
     "@dsmjs/remark-preset-lint": "1.0.11",
     "@form8ion/commitlint-config": "1.0.14",
     "@travi/travis-lint": "1.0.1",
-    "ban-sensitive-files": "1.9.12",
+    "ban-sensitive-files": "1.9.13",
     "cz-conventional-changelog": "3.3.0",
     "husky": "4.3.0",
     "lockfile-lint": "4.3.7",
