@@ -26,7 +26,7 @@
     "lint:peer": "npm ls >/dev/null"
   },
   "devDependencies": {
-    "@dsmjs/eslint-config": "1.0.57",
+    "@dsmjs/eslint-config": "1.0.58",
     "@dsmjs/remark-preset-lint": "1.0.12",
     "@form8ion/commitlint-config": "1.0.14",
     "@travi/travis-lint": "1.0.1",
