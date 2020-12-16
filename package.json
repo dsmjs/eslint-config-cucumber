@@ -22,14 +22,12 @@
     "lint:js": "eslint .",
     "generate:md": "remark . --output",
     "lint:sensitive": "ban",
-    "lint:travis": "travis-lint .travis.yml",
     "lint:peer": "npm ls >/dev/null"
   },
   "devDependencies": {
     "@dsmjs/eslint-config": "1.0.58",
     "@dsmjs/remark-preset-lint": "1.0.12",
     "@form8ion/commitlint-config": "1.0.14",
-    "@travi/travis-lint": "1.0.1",
     "ban-sensitive-files": "1.9.14",
     "cz-conventional-changelog": "3.3.0",
     "husky": "4.3.6",

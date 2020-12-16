@@ -6,7 +6,7 @@ which extends [@form8ion/eslint-config-cucumber](https://github.com/form8ion/esl
 
 <!--status-badges start -->
 
-[![Build Status][ci-badge]][ci-link]
+[![Node CI Workflow Status][github-actions-ci-badge]][github-actions-ci-link]
 
 <!--status-badges end -->
 
@@ -89,10 +89,6 @@ $ npm test
 
 [dependabot-badge]: https://badgen.net/dependabot/dsmjs/eslint-config-cucumber/?icon=dependabot
 
-[ci-link]: https://travis-ci.com/dsmjs/eslint-config-cucumber
-
-[ci-badge]: https://img.shields.io/travis/com/dsmjs/eslint-config-cucumber/master.svg
-
 [license-link]: LICENSE
 
 [license-badge]: https://img.shields.io/github/license/dsmjs/eslint-config-cucumber.svg
@@ -100,3 +96,7 @@ $ npm test
 [npm-link]: https://www.npmjs.com/package/@dsmjs/eslint-config-cucumber
 
 [npm-badge]: https://img.shields.io/npm/v/@dsmjs/eslint-config-cucumber.svg
+
+[github-actions-ci-link]: https://github.com/dsmjs/eslint-config-cucumber/actions?query=workflow%3A%22Node.js+CI%22+branch%3Amaster
+
+[github-actions-ci-badge]: https://github.com/dsmjs/eslint-config-cucumber/workflows/Node.js%20CI/badge.svg
