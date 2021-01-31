@@ -25,7 +25,7 @@
     "lint:peer": "npm ls >/dev/null"
   },
   "devDependencies": {
-    "@dsmjs/eslint-config": "1.0.61",
+    "@dsmjs/eslint-config": "1.0.62",
     "@dsmjs/remark-preset-lint": "1.0.12",
     "@form8ion/commitlint-config": "1.0.14",
     "ban-sensitive-files": "1.9.14",
