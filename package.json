@@ -28,7 +28,7 @@
     "@dsmjs/eslint-config": "1.0.62",
     "@dsmjs/remark-preset-lint": "1.0.12",
     "@form8ion/commitlint-config": "1.0.14",
-    "ban-sensitive-files": "1.9.14",
+    "ban-sensitive-files": "1.9.15",
     "cz-conventional-changelog": "3.3.0",
     "husky": "4.3.8",
     "lockfile-lint": "4.3.7",
