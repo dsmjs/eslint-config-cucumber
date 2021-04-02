@@ -27,7 +27,7 @@
   "devDependencies": {
     "@dsmjs/eslint-config": "1.0.66",
     "@dsmjs/remark-preset-lint": "1.0.14",
-    "@form8ion/commitlint-config": "1.0.16",
+    "@form8ion/commitlint-config": "1.0.17",
     "ban-sensitive-files": "1.9.15",
     "cz-conventional-changelog": "3.3.0",
     "husky": "6.0.0",
