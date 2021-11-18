@@ -1,1 +1,1 @@
-module.exports = {extends: ['@form8ion']};
+module.exports = {extends: ['dsmjs']};
