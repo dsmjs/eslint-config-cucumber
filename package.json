@@ -28,7 +28,7 @@
   "devDependencies": {
     "@dsmjs/eslint-config": "1.0.98",
     "@dsmjs/remark-preset-lint": "2.0.10",
-    "ban-sensitive-files": "1.9.17",
+    "ban-sensitive-files": "1.9.18",
     "commitlint-config-dsmjs": "1.0.38",
     "cz-conventional-changelog": "3.3.0",
     "husky": "7.0.4",
