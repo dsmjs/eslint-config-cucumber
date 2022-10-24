@@ -26,7 +26,7 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@dsmjs/eslint-config": "1.0.109",
+    "@dsmjs/eslint-config": "1.0.110",
     "@dsmjs/remark-preset-lint": "2.0.15",
     "ban-sensitive-files": "1.9.18",
     "commitlint-config-dsmjs": "1.0.46",
