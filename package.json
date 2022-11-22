@@ -29,7 +29,7 @@
     "@dsmjs/eslint-config": "1.0.112",
     "@dsmjs/remark-preset-lint": "2.0.15",
     "ban-sensitive-files": "1.9.18",
-    "commitlint-config-dsmjs": "1.0.47",
+    "commitlint-config-dsmjs": "1.0.49",
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.2",
     "lockfile-lint": "4.9.6",
